@@ -1,0 +1,1 @@
+This is a mobile game for devices with Android 5.0.
